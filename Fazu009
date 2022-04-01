@@ -1,0 +1,11 @@
+apt update 
+apt upgrade 
+pkg install git -y 
+pkg install python 
+pkg install python2 
+pip install requst 
+pip2 install mechanize 
+pkg install git 
+git clone https://github.com/Fazu009/Fazu009.git 
+cd Fazu009 
+python2 Fazu009.py 
